@@ -6,7 +6,8 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body>	
+	<h1>제목1</h1>
 
 </body>
 </html>
