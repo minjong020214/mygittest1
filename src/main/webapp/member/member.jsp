@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h1>회원가입 기능 수정</h1>
+	<h2>회원가입 기능 수2</h2>
 </body>
 </html>
